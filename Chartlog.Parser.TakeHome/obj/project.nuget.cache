@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PzKa4eN/he5kGNd90+hu0Fz/iomlRa7W87cA4XoWur4P4v4YFA014tLvU5WfhULHENHzfnuVdXYwMpaPB4hyyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bhagirath\\Desktop\\Chartlog.Parser.TakeHome\\Chartlog.Parser.TakeHome\\Chartlog.Parser.TakeHome\\Chartlog.Parser.TakeHome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bhagirath\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bhagirath\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bhagirath\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Bhagirath\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\Bhagirath\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bhagirath\\.nuget\\packages\\timezoneconverter\\3.5.0\\timezoneconverter.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
